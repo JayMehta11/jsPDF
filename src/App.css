@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  margin: 0 2rem 0 2rem;
+  padding: auto;
 }
 
 .App-logo {
@@ -36,3 +38,15 @@
     transform: rotate(360deg);
   }
 }
+
+/* @media print {
+  body {
+    visibility: hidden;
+  }
+  #section-to-print {
+    visibility: visible;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+} */

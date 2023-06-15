@@ -1,0 +1,158 @@
+{
+    "target": {
+        "targetName": "sample intern",
+        "totalQuestions": 4,
+        "targetType": "test",
+        "new": true,
+        "dataEndpoint": "",
+        "precisionMode": true,
+        "visibility": true,
+        "asyncRespType": "simple",
+        "realTimeRespType": "simple",
+        "applyShadowRemoval": true,
+        "showCorrectAnswer": false,
+        "targetCode": "644a239604a7e5c7080f03d5:::sample intern",
+        "language": "en",
+        "organizationId": "644a239604a7e5c7080f03d5",
+        "pdfUrl": "https://no-aruco-book-page.s3.ap-south-1.amazonaws.com/c36e1c55-8386-432d-b2e2-327e28b3176a.pdf",
+        "imageUrl": [
+            "https://no-aruco-book-page.s3.ap-south-1.amazonaws.com/25e0976b-2e1f-467b-bc0a-d0b630f0e50b.png"
+        ]
+    },
+    "pageMetadata": [
+        {
+            "data": [
+                {
+                    "ansBox": [
+                        {
+                            "x": 153,
+                            "y": 100,
+                            "w": 342,
+                            "h": 56,
+                            "id": "39c97eed-5d40-456b-99d6-f14af78fefd6",
+                            "boxType": "studentInfo"
+                        }
+                    ],
+                    "ans": [],
+                    "qBox": [],
+                    "item": 2,
+                    "modelType": "mathpix",
+                    "contentType": "studentInfo",
+                    "contentSubType": "name",
+                    "maxScore": 1,
+                    "difficulty": 50,
+                    "orientation": "ltr",
+                    "id": "a2af281d-d8c6-43cd-81ab-10564a969270",
+                    "rubric": "",
+                    "question": "",
+                    "language": "english"
+                },
+                {
+                    "ansBox": [
+                        {
+                            "x": 611,
+                            "y": 100,
+                            "w": 287,
+                            "h": 56,
+                            "id": "6fa3206c-c742-4aeb-a394-feb56812368f",
+                            "boxType": "studentInfo"
+                        }
+                    ],
+                    "ans": [],
+                    "qBox": [],
+                    "item": 3,
+                    "modelType": "mathpix",
+                    "contentType": "studentInfo",
+                    "contentSubType": "number",
+                    "maxScore": 1,
+                    "difficulty": 50,
+                    "orientation": "ltr",
+                    "id": "51728a4d-e04e-4b3e-a704-4b9e10b31bc1",
+                    "rubric": "",
+                    "question": "",
+                    "language": "english"
+                },
+                {
+                    "ansBox": [
+                        {
+                            "x": 42,
+                            "y": 267,
+                            "w": 64,
+                            "h": 64,
+                            "id": "93cb6c50-9812-458c-8a18-addad874e9c1",
+                            "boxType": "answer"
+                        },
+                        {
+                            "x": 661,
+                            "y": 267,
+                            "w": 64,
+                            "h": 64,
+                            "id": "ee43e57f-c0a3-4e3d-b8cb-0d81bda0aa44",
+                            "boxType": "answer"
+                        }
+                    ],
+                    "contentType": "question",
+                    "modelType": "mathpix",
+                    "qBox": [],
+                    "ans": [
+                        "b"
+                    ],
+                    "contentSubType": "checkbox",
+                    "maxScore": null,
+                    "difficulty": 50,
+                    "orientation": "ltr",
+                    "item": 1,
+                    "rubric": "",
+                    "question": "first question",
+                    "skills": [],
+                    "id": "8e61cefa-0853-40ae-8ef0-d320d4366e57",
+                    "language": "english"
+                },
+                {
+                    "ansBox": [
+                        {
+                            "x": 42,
+                            "y": 372,
+                            "w": 64,
+                            "h": 64,
+                            "id": "3686e19e-e060-44b6-b7ef-17daacea1ac4",
+                            "boxType": "answer"
+                        },
+                        {
+                            "x": 661,
+                            "y": 372,
+                            "w": 64,
+                            "h": 64,
+                            "id": "299928aa-e274-4ba9-97c5-0099eb31682f",
+                            "boxType": "answer"
+                        }
+                    ],
+                    "contentType": "question",
+                    "modelType": "mathpix",
+                    "qBox": [],
+                    "ans": [
+                        "b"
+                    ],
+                    "contentSubType": "checkbox",
+                    "maxScore": null,
+                    "difficulty": 50,
+                    "orientation": "ltr",
+                    "item": 2,
+                    "rubric": "",
+                    "question": "2nd question",
+                    "skills": [],
+                    "id": "71d28c78-cddd-4b6d-89f7-bea2cd7baa64",
+                    "language": "english"
+                }
+            ],
+            "questions": 4,
+            "dewarp": false,
+            "gridHeight": 1754,
+            "gridWidth": 1240,
+            "pageNumber": 1,
+            "used": false,
+            "pageType": "subj_nonuniform_practice"
+        }
+    ]
+}
+

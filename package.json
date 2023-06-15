@@ -10,6 +10,11 @@
     "@types/node": "^16.18.33",
     "@types/react": "^18.2.7",
     "@types/react-dom": "^18.2.4",
+    "crypto-random": "^2.0.1",
+    "crypto-randomuuid": "^1.0.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
+    "qrcode": "^1.5.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -39,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/qrcode": "^1.5.0"
   }
 }
